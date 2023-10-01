@@ -10,7 +10,7 @@ const Nav = ({ onSearchTermChange }) => {
   return (
     <nav className="navbar shadow-sm">
       <div className="container d-flex justify-content-start">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="">
           <div className="input-group rounded">
             <input
               type="search"
