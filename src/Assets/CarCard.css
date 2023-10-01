@@ -1,6 +1,4 @@
 .card {
-  /* height: 500px !important;
-  width: 400px; */
   height: 96% !important;
   width: 90%;
   border-radius: 15px !important;
@@ -61,6 +59,10 @@ hr {
   border-radius: 10px !important;
   border: none !important;
   font-weight: 500 !important;
+  transition: 0.4s;
+}
+.btn:hover {
+  background-color: #2d6db3 !important;
 }
 
 .car-rent {
@@ -75,6 +77,7 @@ hr {
   border-radius: 10px;
   position: relative;
   top: 2px;
+  cursor: pointer;
 }
 
 h4 span {
