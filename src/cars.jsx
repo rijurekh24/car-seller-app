@@ -222,7 +222,7 @@ const cars = [
     seater: 7,
     fuel: "Gasoline",
     mileage: "25 mpg",
-    cardMode: "Automatic",
+    carMode: "Automatic",
     rent: 68,
   },
   {
@@ -234,7 +234,7 @@ const cars = [
     seater: 5,
     fuel: "Gasoline",
     mileage: "29 mpg",
-    cardMode: "Automatic",
+    carMode: "Automatic",
     rent: 78,
   },
   {
