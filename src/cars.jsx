@@ -202,16 +202,15 @@ const cars = [
     rent: 90,
   },
   {
-    id: 18,
-    carModel: "Acura MDX",
-    carImg:
-      "https://www.cnet.com/a/img/resize/2a2c082f119489a9cc51b1b57faf0d08b4f12052/hub/2021/01/27/5c412813-e7b2-4653-a18b-7e8bcfa0559a/2022-acura-mdx-a-spec-ogi-1.jpg?auto=webp&fit=crop&height=900&width=1200",
-    releaseYear: 2022,
-    seater: 7,
-    fuel: "Gasoline",
-    mileage: "26 mpg",
-    cardMode: "Automatic",
-    rent: 63,
+    "id": 18,
+    "carModel": "Ford Focus",
+    "carImg": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20190220033711_fordfocusst_2019_5.jpg&w=700&q=90&c=1",
+    "releaseYear": 2022,
+    "seater": 5,
+    "fuel": "Gasoline",
+    "mileage": "28 mpg",
+    "carMode": "Automatic",
+    "rent": 49
   },
   {
     id: 19,
