@@ -61,7 +61,7 @@ hr {
   font-weight: 500 !important;
   transition: 0.4s;
 }
-.btn:hover {
+.btn-info:hover {
   background-color: #2d6db3 !important;
 }
 
